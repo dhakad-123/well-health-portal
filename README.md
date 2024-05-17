@@ -1,20 +1,28 @@
+# Well Health Portal
 
-Well Health Portal is a web application designed to streamline the process of booking appointments with doctors and managing medical prescriptions. The application offers a user-friendly interface for patients to schedule appointments, access prescriptions, and for administrators to manage doctor profiles and clinic specialties.
+Well Health Portal is a comprehensive web application designed to facilitate the process of booking appointments with doctors and managing medical prescriptions. The platform offers a user-friendly interface for patients to schedule appointments and access prescriptions, while administrators can efficiently manage doctor profiles and clinic specialties.
 
-Features
-Patient Features
-Book Appointments: Patients can easily schedule appointments with available doctors.
-View Prescriptions: Patients can view and download their medical prescriptions after consultations.
-Doctor Search: Patients can search for doctors based on specialties and availability.
-Doctor Features
-Manage Appointments: Doctors can view and manage their appointment schedules.
-Prescriptions: Doctors can add and update patient prescriptions after consultations.
-Admin Features
-Add/Remove Doctors: Admins can add new doctors to the clinic or remove existing ones.
-Manage Specialties: Admins can define and manage different medical specialties available in the clinic.
-Update Doctor Profiles: Admins can update doctor information such as contact details, specialization, and available times.
-Technologies Used
-Frontend: HTML, CSS, JavaScript, Bootstrap
-Backend: JSP (JavaServer Pages), Servlets
-Database: MySQL (or any preferred relational database)
-Server: Apache Tomcat (or any preferred servlet container)
+## Features
+
+### Patient Features
+- **Book Appointments**: Schedule appointments with available doctors effortlessly.
+- **View Prescriptions**: Access and download medical prescriptions after consultations.
+- **Doctor Search**: Search for doctors based on their specialties and availability.
+
+### Doctor Features
+- **Manage Appointments**: View and manage appointment schedules.
+- **Prescriptions**: Add and update patient prescriptions post-consultation.
+
+### Admin Features
+- **Add/Remove Doctors**: Easily add new doctors to the clinic or remove existing ones.
+- **Manage Specialties**: Define and manage various medical specialties offered at the clinic.
+- **Update Doctor Profiles**: Modify doctor information including contact details, specialization, and available timings.
+
+## Technologies Used
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap
+- **Backend**: JSP (JavaServer Pages), Servlets
+- **Database**: MySQL (or any preferred relational database)
+- **Server**: Apache Tomcat (or any preferred servlet container)
+
+
+
