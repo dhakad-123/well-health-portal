@@ -1,4 +1,4 @@
-Well Health Portal
+
 Well Health Portal is a web application designed to streamline the process of booking appointments with doctors and managing medical prescriptions. The application offers a user-friendly interface for patients to schedule appointments, access prescriptions, and for administrators to manage doctor profiles and clinic specialties.
 
 Features
